@@ -23,7 +23,8 @@ SolanaTrackerBot/
 │   ├── menu_handlers.py      # Logic for handling user commands and menus
 │   └── wallet_tracker.py     # Logic for tracking Solana wallet transactions
 ├── screenshots               # Folder containing screenshots for the README.md
-├── .env.example              # Example .env file without sensitive info
+├── .env.example              # Example of the .env file for configuration
+├── .env                      # Actual .env file (should be created by the user)
 ├── LICENSE                   # License information for the project
 ├── README.md                 # Project documentation
 ├── bot.py                    # Main bot script
