@@ -135,7 +135,7 @@ This will start the bot, and you can begin interacting with it via Telegram.
 ```
 
 - **Screenshot Example**:  
-<img src="screenshots/start_command.png" alt="Image" width="400">
+<img src="screenshots/start_command.png" alt="Image" width="380">
 
 The bot will welcome you and provide an option to select actions such as adding wallets to track or viewing tracked wallets.
 
@@ -158,7 +158,7 @@ The bot will welcome you and provide an option to select actions such as adding 
    - **Checkmark** the wallet to select it for tracking.
    - After selecting the wallet, press the **"Back"** button to return to the main menu.
    - **Screenshot Example**:  
-<img src="screenshots/checkmark_wallet.png" alt="Image" width="460">
+<img src="screenshots/checkmark_wallet.png" alt="Image" width="480">
 
 4. After going back to the main menu, press **"Start Tracking"** to begin tracking the selected wallet.
 
