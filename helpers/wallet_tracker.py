@@ -10,7 +10,7 @@ from telegram.helpers import escape_markdown
 
 #TELEGRAM_TOKEN = '6849584733:AAF_3D2XkpsC7zDEUz35WOHahSRRXvGf0gs'
 # Set up necessary variables and cache
-url = "https://api.mainnet-beta.solana.com"
+url = "https://icy-autumn-lake.solana-mainnet.quiknode.pro/c8a5068a88b99dd648ec15bf4bd3c9279fc5513a/"
 headers = {"Content-Type": "application/json"}
 local_tz = pytz.timezone('Europe/Bucharest')  # Change to your timezone
 cache = cachetools.func.TTLCache(maxsize=1000, ttl=600)
